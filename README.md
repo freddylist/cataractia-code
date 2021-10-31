@@ -15,6 +15,11 @@ sets](https://github.com/microsoft/cascadia-code#font-features) `calt` + `ss01`
 zero), and `ss20` (graphical control characters) have also been baked into the
 fonts.
 
+## Download
+
+Download Cataractia Code from the repository's
+[releases](https://github.com/freddylist/cataractia-code/releases) page!
+
 ## Customize yourself
 
 **Instructions for Windows users, sorry Linux and OS X users, you will have to
