@@ -8,7 +8,7 @@ patch glyphs and bake font features into fonts!
 
 ## Customizations
 
-The fonts in [`./patched`]() have been patched to include the complete [nerd
+The fonts in [`./final`](https://github.com/freddylist/cataractia-code/tree/main/final) have been patched to include the complete [nerd
 font](https://www.nerdfonts.com/) icons set. The [stylistic
 sets](https://github.com/microsoft/cascadia-code#font-features) `calt` + `ss01`
 (for cursive italics), `ss02` (alternate not-equal), `ss19`/`zero` (slashed
